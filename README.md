@@ -24,7 +24,7 @@ HYPERVIZOR is a platformer/metroidvania-style game that sets itself apart from t
 
 - Enter Combat Mode in a seamless transition from Exploration Mode:
   - Camera zooms in to focus between the two combatants
-  - Explortion Mode UI fades out and is replaced by Combat Mode UI, a fighting-game style health-bar and HYPER-guage.
+  - Exploration Mode UI fades out and is replaced by Combat Mode UI, a fighting-game style health-bar and HYPER-guage.
   - Movement slows from a run to a walk, double-tap to dash if that ability has been gained
 - Square off against enemies individually with fighting game tactics like rush-down, punishing, and parrying depending on the VIZOR worn.
 - Earn XP by defeating enemies and use it to purchase new moves from any obtained VIZOR's move list.
